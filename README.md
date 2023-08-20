@@ -1,6 +1,5 @@
 # Student Management System - GitHub Project
 
-![Project Logo](link_to_your_logo_image)
 
 Welcome to the Student Management System GitHub project! This project aims to provide a comprehensive solution for managing student-related tasks through a web-based application. Whether you're an educational institution, a training center, or any organization that deals with student data, this system can streamline your processes efficiently.
 
